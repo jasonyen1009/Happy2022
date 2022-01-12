@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		256F311C2784712100CA89A8 /* GraidentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256F311B2784712100CA89A8 /* GraidentTableViewController.swift */; };
+		256F311E2784795700CA89A8 /* DemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256F311D2784795700CA89A8 /* DemoView.swift */; };
 		25BC8F0027846EDD00E752CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BC8EFF27846EDD00E752CF /* AppDelegate.swift */; };
 		25BC8F0227846EDD00E752CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BC8F0127846EDD00E752CF /* SceneDelegate.swift */; };
 		25BC8F0427846EDD00E752CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BC8F0327846EDD00E752CF /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		256F311B2784712100CA89A8 /* GraidentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraidentTableViewController.swift; sourceTree = "<group>"; };
+		256F311D2784795700CA89A8 /* DemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoView.swift; sourceTree = "<group>"; };
 		25BC8EFC27846EDD00E752CF /* Happy2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Happy2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25BC8EFF27846EDD00E752CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		25BC8F0127846EDD00E752CF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				25BC8F0127846EDD00E752CF /* SceneDelegate.swift */,
 				25BC8F0327846EDD00E752CF /* ViewController.swift */,
 				25BC8F0527846EDD00E752CF /* Main.storyboard */,
+				256F311D2784795700CA89A8 /* DemoView.swift */,
+				256F311B2784712100CA89A8 /* GraidentTableViewController.swift */,
 				25BC8F0827846EDF00E752CF /* Assets.xcassets */,
 				25BC8F0A27846EDF00E752CF /* LaunchScreen.storyboard */,
 				25BC8F0D27846EDF00E752CF /* Info.plist */,
@@ -261,6 +267,8 @@
 				25BC8F0427846EDD00E752CF /* ViewController.swift in Sources */,
 				25BC8F0027846EDD00E752CF /* AppDelegate.swift in Sources */,
 				25BC8F0227846EDD00E752CF /* SceneDelegate.swift in Sources */,
+				256F311E2784795700CA89A8 /* DemoView.swift in Sources */,
+				256F311C2784712100CA89A8 /* GraidentTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
